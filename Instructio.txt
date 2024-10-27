@@ -1,0 +1,24 @@
+
+                                   ---------------------------------------------------------------------------------
+                                   |                                                                               |
+                                   |                                INSTRUCTIONS                                   |
+                                   |                                                                               |
+                                   ---------------------------------------------------------------------------------
+
+
+Please complete Programming Exercise 18, from page 735, from chapter 10 from your textbook.
+
+Please upload .cpp file(s) along with screenshots (pasted in Word document) of all solutions/screens. 
+You can take a screenshot of your solutions by hitting PrintScreen button on your keyboard and then by pasting that image in a Word document.
+
+ 
+
+Exercise-18
+
+Define the class bankAccount to implement the basic properties of a bank account. An object of this class should store the following data:
+
+Account holder’s name (string), account number (int), account type (string, checking/saving), balance (double), and interest rate (double). 
+(Store interest rate as a decimal number.)
+
+Add appropriate member functions to manipulate an object. Use a static member in the class to automatically assign account numbers. 
+Also declare an array of 10 components of type bankAccount to process up to 10 customers and write a program to illustrate how to use your class.
