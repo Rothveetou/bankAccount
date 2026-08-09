@@ -34,12 +34,13 @@ void Transaction::display() const {
             break;
     }
 
-    std::cout << typeName
-              << " | $"
-              << std::fixed
-              << std::setprecision(2)
-              << amount
-              << " | "
-              << description
-              << '\n';
+    std::cout
+        << typeName
+        << " | $"
+        << std::fixed
+        << std::setprecision(2)
+        << amount
+        << " | "
+        << description
+        << '\n';
 }
